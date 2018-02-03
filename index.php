@@ -14,45 +14,45 @@
       </tr>
       <tr>
       	<td> The PT-REPEATER-NM-1CE</td>
-      	<td><img src="img/2.png"></td>
+      	<td><img src="2.png"></td>
       	<td>The PT-REPEATER-NM-1CE features a single Ethernet port that can connect a LAN backbone which can also support either six PRI connections to aggregate ISDN lines, or 24 synchronous/asynchronous ports.</td>
       </tr>
        <tr>
       	<td> The PT-ROUTER-NM-1AM card</td>
-      	<td><img src="img/3.png"></td>
+      	<td><img src="3.png"></td>
       	<td>The PT-ROUTER-NM-1AM card features dual RJ-11 connectors, which are used for basic telephone service connections. The WIC-1AM uses one port for connection to a standard telephone line, and the other port can be connected to a basic analog telephone for use when the modem is idle.</td>
       </tr>
        <tr>
       	<td> Router: 1841</td>
-      	<td><img src="img/5.png"></td>
+      	<td><img src="5.png"></td>
       	<td>The Cisco 1841 Integrated Services Router provides two fixed 10/100 (100BASE-TX) Ethernet ports, two integrated High-Speed WAN Interface Card (HWIC) slots that are compatible with WAN Interface Card (WICs) and Voice/WAN Interface Cards (VWICs), and one internal Advanced Integration Module (AIM) slot</td>
       </tr>
       <tr>
       	<td> Router: 2620XM</td>
-      	<td><img src="img/6.png"></td>
+      	<td><img src="6.png"></td>
       	<td>The Cisco 2620XM Multiservice Router provides a one-network module slot platform with one fixed 10/100 (100BASE-TX) Ethernet port, two integrated WAN Interface Card (WIC) slots, and one Advanced Integration Module (AIM) slot.</td>
       </tr>
       <tr>
       	<td> Router: 2621XM</td>
-      	<td><img src="img/7.png"></td>
+      	<td><img src="7.png"></td>
       	<td>The Cisco 2621XM Multiservice Router provides a one-network module slot platform with two fixed 10/100 (100BASE-TX) Ethernet ports, two integrated WAN Interface Card (WIC) slots, and one Advanced Integration Module (AIM) slot.
         The 2621XM supports the same modules that the 2620XM supports</td>
       </tr>
        <tr>
       	<td> Router: 2811</td>
-      	<td><img src="img/8.png"></td>
+      	<td><img src="8.png"></td>
       	<td>The Cisco 2811 Integrated Services Router provides one Enhanced Network-Module slot with two fixed 10/100 (100BASE-TX) Ethernet ports, four integrated High-Speed WAN Interface Card (HWIC) slots that are compatible with WAN Interface Card (WICs), Voice Interface Cards (VICs) and Voice/WAN Interface Cards (VWICs), and dual Advanced Integration Module (AIM) slots.
         </td>
       </tr>
        <tr>
       	<td> Router: Router-PT</td>
-      	<td><img src="img/9.png"></td>
+      	<td><img src="9.png"></td>
       	<td>The Router-PT generic router provides ten slots, one console port, and one auxiliary port.
         </td>
       </tr>
       <tr>
       	<td> Switch: 2950-24</td>
-      	<td><img src="img/10.png"></td>
+      	<td><img src="10.png"></td>
       	<td>The Cisco Catalyst 2950-24 is a member of the Cisco Catalyst 2950 series switch family. It is a standalone, fixed-configuration, managed 10/100 switch providing user connectivity for small- to mid-sized networks.
         It does not support add-in modules..
         </td>
