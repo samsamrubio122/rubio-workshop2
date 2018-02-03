@@ -59,14 +59,14 @@
       </tr>
       <tr>
       	<td> Switch: 2950T-24</td>
-      	<td><img src="img/11.PNG"></td>
+      	<td><img src="11.PNG"></td>
       	<td>TThe Cisco Catalyst 2950T-24 is a member of the Catalyst 2950 Series Intelligent Ethernet Switch family. It is a fixed-configuration, standalone switch that provides wire-speed Fast Ethernet and Gigabit Ethernet connectivity for mid-sized networks.
         It does not support add-in modules
         </td>
       </tr>
       <tr>
       	<td> Switch: 2960-24TT</td>
-      	<td><img src="img/12.PNG"></td>
+      	<td><img src="12.PNG"></td>
       	<td>The Cisco Catalyst 2960-24TT is a member of the Catalyst 2960 Series Intelligent Ethernet Switch family. It is a fixed-configuration, standalone switch that provides wire-speed Fast Ethernet and Gigabit Ethernet connectivity for mid-sized networks.
         </td>
       </tr>
